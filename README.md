@@ -2,3 +2,5 @@
 
 - `/parcels` Code for parcel generation and solving a VRP problem in the Confluence area using JSprit
 - `/matsim_massgt_integration` Converter for MATSim output data to be used by the crowdshipping functionality of MASS-GT
+
+**This repository is not updated anymore. It has been moved to https://github.com/Horizon-LEAD/lead-lyon**
